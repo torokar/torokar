@@ -11,10 +11,10 @@
 🚀 Прошел конкурсный отбор на интенсив от Московского университета РАНхиГС, что подтвердило мою готовность к решению сложных задач и работе в competitive среде.
 
 ### Languages and Tools
-![С++](https://img.shields.io/badge/Flutter-00B7EB)
-![QT](https://img.shields.io/badge/Flutter-00B7EB)
-![PostgreSQL](https://img.shields.io/badge/Flutter-00B7EB)
-![Linux](https://img.shields.io/badge/Flutter-00B7EB)
-![GitHub](https://img.shields.io/badge/Flutter-00B7EB)
+![С++](https://img.shields.io/badge/С++-00B7EB)
+![QT](https://img.shields.io/badge/QT-00B7EB)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-00B7EB)
+![Linux](https://img.shields.io/badge/Linux-00B7EB)
+![GitHub](https://img.shields.io/badge/GitHub-00B7EB)
 
 Follow Me
