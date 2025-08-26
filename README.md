@@ -1,6 +1,6 @@
 torokar[![Header ](https://github.com/torokar/torokar/blob/main/assets/download.gif)](https://m.vk.com/bollars)
 
-## Обо мне/About me
+# Обо мне/About me
 
 Начинающий C++ разработчик с страстью к созданию meaningful software
 
@@ -22,7 +22,7 @@ My path in IT began with a conscious choice of profession, which turned into a r
 
 🚀 I passed the competitive selection for an intensive course from the Moscow University of RANEPA, which confirmed my readiness to solve complex problems and work in a competitive environment.
 
-### Языки и инструменты/Languages and Tools
+# Языки и инструменты/Languages and Tools
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
@@ -58,7 +58,7 @@ My path in IT began with a conscious choice of profession, which turned into a r
 
 [![Посмотреть код](https://img.shields.io/badge/Посмотреть_код-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/torokar/exchangeRate_cbr)
 
-### Социальные сети/Social media
+# Социальные сети/Social media
 
 [![VK](https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white)](https://m.vk.com/bollars)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/bollars)
