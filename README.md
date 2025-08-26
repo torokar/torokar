@@ -58,14 +58,6 @@ My path in IT began with a conscious choice of profession, which turned into a r
 
 [![Посмотреть код](https://img.shields.io/badge/Посмотреть_код-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/torokar/exchangeRate_cbr)
 
-## 🛠 Зависимости
-
-- **C++17** или выше
-- **Qt 5.x** или выше (модули: core, gui, widgets, concurrent)
-- **libcurl** для HTTP-запросов
-- **libpqxx** для работы с PostgreSQL
-- **QCustomPlot** для визуализации графиков
-
 ### Социальные сети/Social media
 
 [![VK](https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white)](https://m.vk.com/bollars)
