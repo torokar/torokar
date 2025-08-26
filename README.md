@@ -32,9 +32,9 @@ My path in IT began with a conscious choice of profession, which turned into a r
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### 🚀Проекты в разработке 
+# 🚀В разработке 
 
-# 🚀 Currence Exchange Rate
+### 🚀 Currence Exchange Rate
 
 **Desktop приложение для отслеживания курсов валют**
 
