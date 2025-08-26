@@ -1,4 +1,4 @@
-[![Header ](https://github.com/torokar/torokar/blob/main/assets/download.gif)](https://m.vk.com/bollars)
+torokar[![Header ](https://github.com/torokar/torokar/blob/main/assets/download.gif)](https://m.vk.com/bollars)
 
 ## Обо мне/About me
 
@@ -56,7 +56,7 @@ My path in IT began with a conscious choice of profession, which turned into a r
 
 **В активной разработке** 🚀
 
-[![Посмотреть код](https://img.shields.io/badge/Посмотреть_код-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-repo)
+[![Посмотреть код](https://img.shields.io/badge/Посмотреть_код-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/torokar/exchangeRate_cbr)
 
 ## 🛠 Зависимости
 
