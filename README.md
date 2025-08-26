@@ -10,6 +10,8 @@
 
 🚀 Прошел конкурсный отбор на интенсив от Московского университета РАНхиГС, что подтвердило мою готовность к решению сложных задач и работе в competitive среде.
 
+
+
 ------------------------------------------------------------------------------------------
 
 Beginner C++ developer with a passion for creating meaningful software
@@ -20,7 +22,6 @@ My path in IT began with a conscious choice of profession, which turned into a r
 
 🚀 I passed the competitive selection for an intensive course from the Moscow University of RANEPA, which confirmed my readiness to solve complex problems and work in a competitive environment.
 
-
 ### Языки и инструменты/Languages and Tools
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -30,6 +31,40 @@ My path in IT began with a conscious choice of profession, which turned into a r
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### 🚀Проекты в разработке 
+
+# 🚀 Currence Exchange Rate
+
+**Desktop приложение для отслеживания курсов валют**
+
+[![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
+[![Qt](https://img.shields.io/badge/Qt-41CD52?style=flat&logo=qt&logoColor=white)](https://www.qt.io/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+
+**Currence Exchange Rate** — это современное desktop-приложение, которое позволяет отслеживать курсы валют, парсить данные с сайта Центрального банка РФ, сохранять их в базу данных PostgreSQL, визуализировать в виде графиков и экспортировать в текстовые файлы.
+
+## 📋 Функционал
+
+- 📊 **Парсинг данных**: Загрузка актуальных курсов валют с сайта ЦБ РФ.
+- 💾 **Хранение данных**: Сохранение данных в базу PostgreSQL для дальнейшего анализа.
+- 📈 **Визуализация**: Построение графиков с использованием библиотеки QCustomPlot.
+- 📁 **Экспорт отчетов**: Сохранение данных в текстовые файлы для удобного использования.
+- 🎨 **Интерфейс**: Современный и интуитивно понятный GUI на основе Qt.
+
+## 🚧 Статус проекта
+
+**В активной разработке** 🚀
+
+[![Посмотреть код](https://img.shields.io/badge/Посмотреть_код-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-repo)
+
+## 🛠 Зависимости
+
+- **C++17** или выше
+- **Qt 5.x** или выше (модули: core, gui, widgets, concurrent)
+- **libcurl** для HTTP-запросов
+- **libpqxx** для работы с PostgreSQL
+- **QCustomPlot** для визуализации графиков
 
 ### Социальные сети/Social media
 
