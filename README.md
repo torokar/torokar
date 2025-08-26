@@ -11,11 +11,15 @@
 🚀 Прошел конкурсный отбор на интенсив от Московского университета РАНхиГС, что подтвердило мою готовность к решению сложных задач и работе в competitive среде.
 
 ### Languages and Tools
-![С++](https://img.shields.io/badge/С++-00B7EB?
-style=for-the-badge&logo-flutter&logoColor=090909)
-![QT](https://img.shields.io/badge/QT-00B7EB)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-00B7EB)
-![Linux](https://img.shields.io/badge/Linux-00B7EB)
-![GitHub](https://img.shields.io/badge/GitHub-00B7EB)
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%252B%252B&logoColor=white
 
 Follow Me
