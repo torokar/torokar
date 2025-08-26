@@ -10,6 +10,13 @@
 
 🚀 Прошел конкурсный отбор на интенсив от Московского университета РАНхиГС, что подтвердило мою готовность к решению сложных задач и работе в competitive среде.
 
-Languages and Tools
+### Languages and Tools
+![Flutter](https://img.shields.io/badge/Flutter-090909)
+![Flutter](https://img.shields.io/badge/Flutter-090909)
+![Flutter](https://img.shields.io/badge/Flutter-090909)
+![Flutter](https://img.shields.io/badge/Flutter-090909)
+![Flutter](https://img.shields.io/badge/Flutter-090909)
+![Flutter](https://img.shields.io/badge/Flutter-090909)
+![Flutter](https://img.shields.io/badge/Flutter-090909)
 
 Follow Me
