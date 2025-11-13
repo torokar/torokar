@@ -28,23 +28,7 @@ My path in IT began with a conscious choice of profession, which turned into a r
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-# 🚀В разработке 
 
-### 🚀 Currence Exchange Rate
-
-**Desktop приложение для отслеживания курсов валют**
-
-[![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
-[![Qt](https://img.shields.io/badge/Qt-41CD52?style=flat&logo=qt&logoColor=white)](https://www.qt.io/)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-
-**Currence Exchange Rate** — это современное desktop-приложение, которое позволяет отслеживать курсы валют, парсить данные с сайта Центрального банка РФ, сохранять их в базу данных PostgreSQL, визуализировать в виде графиков и экспортировать в текстовые файлы.
-
-## 🚧 Статус проекта
-
-**В активной разработке** 🚀
-
-[![Посмотреть код](https://img.shields.io/badge/Посмотреть_код-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/torokar/exchangeRate_cbr)
 
 # Социальные сети/Social media
 
